@@ -1,4 +1,2 @@
-go_first
+Go Experiments
 ========
-
-Play place for go
